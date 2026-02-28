@@ -3245,3 +3245,29 @@
   id: 8424
   time: '2026-02-27T02:49:57.0000000+00:00'
   url: https://github.com/teamstarcup/starcup/pull/785
+- author: princesspengy
+  changes:
+  - message: an error in crux's wiring that led to the southern hallway not having
+      power at roundstart has been patched up
+    type: Fix
+  - message: pets will now sometimes rotate between shifts; each round will have different
+      fuzzy coworkers than the last! a familiar green friend might even replace ian
+      on occasion...
+    type: Tweak
+  - message: after extensive parole negotiations, dishduty the sloth has been cleared
+      to occasionally fill in to replace pun pun on crux station!
+    type: Add
+  - message: 'crux''s psychology office now has a new employee: delta-v''s laika the
+      security dog, now retired after years of service. she''ll be arriving to other
+      maps very soon!'
+    type: Add
+  - message: crux station's resident bunny has finally been given a name. say hello
+      to starbuck! they might even find their way to other stations before long...
+    type: Tweak
+  - message: on crux station, bingus and tropico will sometimes be replaced with other
+      pets from the same department! delta-v's silvia might even arrive in medical
+      from time to time!
+    type: Add
+  id: 8425
+  time: '2026-02-28T17:16:42.0000000+00:00'
+  url: https://github.com/teamstarcup/starcup/pull/788
