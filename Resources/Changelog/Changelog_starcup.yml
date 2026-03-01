@@ -3291,3 +3291,10 @@
   id: 8427
   time: '2026-02-28T17:22:11.0000000+00:00'
   url: https://github.com/teamstarcup/starcup/pull/790
+- author: KoboldCatgirl
+  changes:
+  - message: lyres will now spawn randomly and show up in strings crates!
+    type: Tweak
+  id: 8428
+  time: '2026-03-01T05:14:02.0000000+00:00'
+  url: https://github.com/teamstarcup/starcup/pull/787
