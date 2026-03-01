@@ -3298,3 +3298,23 @@
   id: 8428
   time: '2026-03-01T05:14:02.0000000+00:00'
   url: https://github.com/teamstarcup/starcup/pull/787
+- author: princesspengy
+  changes:
+  - message: syndicate-branded cosmetics no longer display as highly illegal, and
+      some have had their descriptions lightly rewritten. wear the black and red proudly!
+    type: Fix
+  - message: syndicate-branded antag gear will now be visible on examining their wearer
+    type: Tweak
+  - message: new nanotrasen contraband level, for specifically branded pieces of equipment
+    type: Add
+  - message: the RPDS will no longer fool the examinable clothing system into thinking
+      it's a china lake
+    type: Fix
+  - message: syndicate coats have been renamed to better clarify their status
+    type: Tweak
+  - message: corrected examine text inaccurately referring to the mosin as a "sniper
+      rifle"
+    type: Fix
+  id: 8429
+  time: '2026-03-01T05:22:31.0000000+00:00'
+  url: https://github.com/teamstarcup/starcup/pull/769
