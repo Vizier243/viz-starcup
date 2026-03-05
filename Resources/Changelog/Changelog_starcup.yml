@@ -3340,3 +3340,12 @@
   id: 8432
   time: '2026-03-05T04:31:02.0000000+00:00'
   url: https://github.com/teamstarcup/starcup/pull/794
+- author: Psymbiote
+  changes:
+  - message: 'Rodentia have access to several new emotes: bunny foot thumps, guinea
+      pig purring and trilling, possum hissing, and a couple more. Use @stomps to
+      hit the ground and make noise!'
+    type: Add
+  id: 8433
+  time: '2026-03-05T06:35:16.0000000+00:00'
+  url: https://github.com/teamstarcup/starcup/pull/793
