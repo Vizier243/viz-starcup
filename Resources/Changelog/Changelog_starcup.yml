@@ -3349,3 +3349,12 @@
   id: 8433
   time: '2026-03-05T06:35:16.0000000+00:00'
   url: https://github.com/teamstarcup/starcup/pull/793
+- author: princesspengy
+  changes:
+  - message: crux's vault now has a working entrance again
+    type: Fix
+  - message: paper and cardboard can now be found in crux's tool room!
+    type: Add
+  id: 8434
+  time: '2026-03-05T06:48:11.0000000+00:00'
+  url: https://github.com/teamstarcup/starcup/pull/797
