@@ -3318,3 +3318,18 @@
   id: 8429
   time: '2026-03-01T05:22:31.0000000+00:00'
   url: https://github.com/teamstarcup/starcup/pull/769
+- author: princesspengy
+  changes:
+  - message: fixed blunt damage not triggering gib behavior on mobs
+    type: Fix
+  id: 8430
+  time: '2026-03-05T04:22:16.0000000+00:00'
+  url: https://github.com/teamstarcup/starcup/pull/796
+- author: Psymbiote
+  changes:
+  - message: Doptera have new speech sounds, and new sounds for some of their emotes.
+      Buzz is not in the emote wheel, but you can still trigger it through chat!
+    type: Tweak
+  id: 8431
+  time: '2026-03-05T04:21:42.0000000+00:00'
+  url: https://github.com/teamstarcup/starcup/pull/795
