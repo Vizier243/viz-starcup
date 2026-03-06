@@ -3358,3 +3358,11 @@
   id: 8434
   time: '2026-03-05T06:48:11.0000000+00:00'
   url: https://github.com/teamstarcup/starcup/pull/797
+- author: Oxdeception
+  changes:
+  - message: Importing characters that were exported prior to birthdays being added
+      to records should work again.
+    type: Fix
+  id: 8435
+  time: '2026-03-06T01:09:46.0000000+00:00'
+  url: https://github.com/teamstarcup/starcup/pull/801
