@@ -3490,3 +3490,10 @@
   id: 8448
   time: '2026-03-15T07:53:01.0000000+00:00'
   url: https://github.com/teamstarcup/starcup/pull/811
+- author: princesspengy
+  changes:
+  - message: MKCs should now be able to metabolize reagents they should
+    type: Fix
+  id: 8449
+  time: '2026-03-15T20:46:23.0000000+00:00'
+  url: https://github.com/teamstarcup/starcup/pull/814
