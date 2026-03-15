@@ -3483,3 +3483,10 @@
   id: 8447
   time: '2026-03-12T08:22:48.0000000+00:00'
   url: https://github.com/teamstarcup/starcup/pull/585
+- author: KoboldCatgirl
+  changes:
+  - message: Cyborgs' goofy names have been slightly reined in!
+    type: Tweak
+  id: 8448
+  time: '2026-03-15T07:53:01.0000000+00:00'
+  url: https://github.com/teamstarcup/starcup/pull/811
