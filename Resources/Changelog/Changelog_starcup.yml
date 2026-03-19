@@ -3504,3 +3504,18 @@
   id: 8450
   time: '2026-03-19T19:13:34.0000000+00:00'
   url: https://github.com/teamstarcup/starcup/pull/816
+- author: princesspengy
+  changes:
+  - message: "performed a large amount of technical refactoring to loadouts\u2014\
+      this should result in minimal player-facing changes, but be warned, some of\
+      \ your loadouts may have an item or two missing!"
+    type: Tweak
+  - message: clipboards and folders chosen in loadouts should now be consistently
+      stocked with paper
+    type: Tweak
+  - message: plastic clipboards have been added to loadouts, as they should have been
+      during a previous upstream merge
+    type: Fix
+  id: 8451
+  time: '2026-03-19T19:17:48.0000000+00:00'
+  url: https://github.com/teamstarcup/starcup/pull/779
