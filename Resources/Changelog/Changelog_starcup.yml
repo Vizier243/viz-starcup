@@ -3519,3 +3519,20 @@
   id: 8451
   time: '2026-03-19T19:17:48.0000000+00:00'
   url: https://github.com/teamstarcup/starcup/pull/779
+- author: KoboldCatgirl
+  changes:
+  - message: Saltern's Captain and CB Medic no longer have duplicate gear.
+    type: Fix
+  - message: Made Saltern's singularity setup more forgiving!
+    type: Tweak
+  - message: Saltern no longer starts with a tesla generator.
+    type: Remove
+  - message: Added Siobhan the Fox, Henrietta the Chicken, and Sally to Saltern.
+    type: Add
+  - message: Removed Pun Pun and the CMO Cat from Saltern.
+    type: Remove
+  - message: Added miscellaneous tweaks, bugfixes, and flourishes to Saltern!
+    type: Tweak
+  id: 8452
+  time: '2026-03-20T18:53:48.0000000+00:00'
+  url: https://github.com/teamstarcup/starcup/pull/821
