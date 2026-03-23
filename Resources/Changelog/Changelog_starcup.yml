@@ -3560,3 +3560,12 @@
   id: 8455
   time: '2026-03-23T00:54:57.0000000+00:00'
   url: https://github.com/teamstarcup/starcup/pull/820
+- author: KoboldCatgirl
+  changes:
+  - message: expanded Reach Station's departments and jobslots!
+    type: Add
+  - message: Reach is now hypothetically flyable. Behave yourselves.
+    type: Tweak
+  id: 8456
+  time: '2026-03-23T02:53:36.0000000+00:00'
+  url: https://github.com/teamstarcup/starcup/pull/813
