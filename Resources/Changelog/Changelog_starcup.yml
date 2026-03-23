@@ -3550,3 +3550,13 @@
   id: 8454
   time: '2026-03-22T23:48:31.0000000+00:00'
   url: https://github.com/teamstarcup/starcup/pull/815
+- author: KoboldCatgirl
+  changes:
+  - message: Added the robotics rescue module, for science cyborgs to revive their
+      silicon friends!
+    type: Add
+  - message: Service cyborgs can now pick up seeds, produce, and cooking ingredients!
+    type: Add
+  id: 8455
+  time: '2026-03-23T00:54:57.0000000+00:00'
+  url: https://github.com/teamstarcup/starcup/pull/820
