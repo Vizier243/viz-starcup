@@ -3569,3 +3569,16 @@
   id: 8456
   time: '2026-03-23T02:53:36.0000000+00:00'
   url: https://github.com/teamstarcup/starcup/pull/813
+- author: KoboldCatgirl
+  changes:
+  - message: Added the Accessibility Items Crate to Cargo orders!
+    type: Add
+  - message: MKCs can now finally take the Narcolepsy trait!
+    type: Fix
+  - message: Added new Justice phrases to the AAC Tablet.
+    type: Add
+  - message: Impaired Motion and Blindness traits no longer automatically give canes.
+    type: Remove
+  id: 8457
+  time: '2026-03-23T04:19:46.0000000+00:00'
+  url: https://github.com/teamstarcup/starcup/pull/817
