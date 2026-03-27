@@ -3582,3 +3582,16 @@
   id: 8457
   time: '2026-03-23T04:19:46.0000000+00:00'
   url: https://github.com/teamstarcup/starcup/pull/817
+- author: princesspengy
+  changes:
+  - message: laika will no longer hunt down mice
+    type: Tweak
+  - message: since silvia does not automatically attack hostile mobs, they will no
+      longer automatically attack her
+    type: Tweak
+  - message: henrietta's dedication to ridding the station of wretched pests now extends
+      to mice
+    type: Tweak
+  id: 8458
+  time: '2026-03-27T18:23:03.0000000+00:00'
+  url: https://github.com/teamstarcup/starcup/pull/809
