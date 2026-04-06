@@ -3595,3 +3595,20 @@
   id: 8458
   time: '2026-03-27T18:23:03.0000000+00:00'
   url: https://github.com/teamstarcup/starcup/pull/809
+- author: foxcurl
+  changes:
+  - message: You can now order a crate of handpacked lunchboxes, or just the empty
+      ones, from Logistics!
+    type: Add
+  - message: The ChefVend no longer has five free filled lunchboxes.
+    type: Remove
+  id: 8459
+  time: '2026-04-06T21:09:42.0000000+00:00'
+  url: https://github.com/teamstarcup/starcup/pull/831
+- author: foxcurl
+  changes:
+  - message: Inspection gloves are no longer insulated.
+    type: Tweak
+  id: 8460
+  time: '2026-04-06T21:09:42.0000000+00:00'
+  url: https://github.com/teamstarcup/starcup/pull/828
