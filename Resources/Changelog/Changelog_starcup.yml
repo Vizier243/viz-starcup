@@ -3619,3 +3619,13 @@
   id: 8461
   time: '2026-04-06T21:43:43.0000000+00:00'
   url: https://github.com/teamstarcup/starcup/pull/826
+- author: foxcurl
+  changes:
+  - message: The "Points" and "Patch" Felinid overlay markings have been replaced
+      with per-limb variants. You will need to re-apply these markings!
+    type: Tweak
+  - message: Felinid hands will no longer render underneath their jumpsuit.
+    type: Fix
+  id: 8462
+  time: '2026-04-06T21:51:37.0000000+00:00'
+  url: https://github.com/teamstarcup/starcup/pull/829
