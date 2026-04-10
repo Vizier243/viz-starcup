@@ -3652,3 +3652,11 @@
   id: 8464
   time: '2026-04-09T22:21:24.0000000+00:00'
   url: https://github.com/teamstarcup/starcup/pull/832
+- author: Dizzy-Eevee
+  changes:
+  - message: Added traits for blood deficiency, which cause your character to either
+      not regenerate or actively lose blood.
+    type: Add
+  id: 8465
+  time: '2026-04-10T01:59:19.0000000+00:00'
+  url: https://github.com/teamstarcup/starcup/pull/835
