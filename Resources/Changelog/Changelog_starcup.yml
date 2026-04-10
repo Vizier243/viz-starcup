@@ -3660,3 +3660,11 @@
   id: 8465
   time: '2026-04-10T01:59:19.0000000+00:00'
   url: https://github.com/teamstarcup/starcup/pull/835
+- author: Dizzy-Eevee
+  changes:
+  - message: MMIs, positronic brains, and the station AI can now emote, with the same
+      emotes available to them as pAIs.
+    type: Tweak
+  id: 8466
+  time: '2026-04-10T02:17:53.0000000+00:00'
+  url: https://github.com/teamstarcup/starcup/pull/834
