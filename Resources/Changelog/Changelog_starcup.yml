@@ -3958,3 +3958,10 @@
   id: 8496
   time: '2026-07-17T21:43:55.0000000+00:00'
   url: https://github.com/teamstarcup/starcup/pull/944
+- author: KoboldCatgirl
+  changes:
+  - message: Fixed SyndieTask header and printout
+    type: Fix
+  id: 8497
+  time: '2026-07-17T21:51:21.0000000+00:00'
+  url: https://github.com/teamstarcup/starcup/pull/943
