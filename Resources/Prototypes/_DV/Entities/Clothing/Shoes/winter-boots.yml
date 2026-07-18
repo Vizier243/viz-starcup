@@ -207,7 +207,7 @@
     sprite: _DV/Clothing/Shoes/Boots/winterbootsviro.rsi
 
 - type: entity
-  parent: [ClothingShoesBaseWinterBoots, ClothingShoesBootsWinterSec]
+  parent: [ClothingShoesBaseWinterBoots, ClothingShoesBootsWinterSec] # starcup, parent needed to be changed as it couldn't hold a sidearm
   id: ClothingShoesBootsWinterWarden
   name: Warden's winter boots
   components:
