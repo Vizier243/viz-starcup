@@ -207,7 +207,7 @@
     sprite: _DV/Clothing/Shoes/Boots/winterbootsviro.rsi
 
 - type: entity
-  parent: ClothingShoesBaseWinterBoots
+  parent: [ClothingShoesBaseWinterBoots, ClothingShoesMilitaryBase]
   id: ClothingShoesBootsWinterWarden
   name: Warden's winter boots
   components:
