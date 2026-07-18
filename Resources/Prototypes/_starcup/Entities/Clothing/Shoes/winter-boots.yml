@@ -31,7 +31,6 @@
     sprite: _starcup/Clothing/Shoes/Boots/winterbootssyndcomm.rsi
 
 - type: entity
-  abstract: true
   parent:
   - ClothingShoesBootsWinterWarden
   - ClothingShoesBootsSecFilled
