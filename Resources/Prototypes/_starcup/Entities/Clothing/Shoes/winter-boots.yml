@@ -32,10 +32,10 @@
 
 - type: entity
   abstract: true
-  id: ClothingShoesBootsWinterWardenFilled
   parent:
   - ClothingShoesBootsWinterWarden
   - ClothingShoesBootsSecFilled
+  id: ClothingShoesBootsWinterWardenFilled
   suffix: Filled
   components:
   - type: ContainerFill
