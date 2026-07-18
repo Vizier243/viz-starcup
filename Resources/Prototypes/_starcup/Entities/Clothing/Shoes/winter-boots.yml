@@ -33,7 +33,6 @@
 - type: entity
   parent:
   - ClothingShoesBootsWinterWarden
-  - ClothingShoesBootsSecFilled
   id: ClothingShoesBootsWinterWardenFilled
   suffix: Filled
   components:
